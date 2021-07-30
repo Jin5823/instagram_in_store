@@ -1,4 +1,4 @@
-# instagram_in_store
+# Instagram in store
 ### 요약
 
 인스타그램 인플루언서를 찾는 방법으로 가장 barbarity한 방식은 bot을 통해 팔로잉과 팔로워를 타고 다니며 계정정보를 모으고 인플루언서를 선별하는 방식이다. 
